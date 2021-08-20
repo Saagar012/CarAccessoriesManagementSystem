@@ -1,0 +1,242 @@
+
+**************************************************
+**         Car Accessory Reciept       **
+**************************************************
+Fri Jan 10 10:18:32 NPT 2020
+
+Item's Id   : 1
+Item's Name :  SeatCover
+Category    :Comfort
+Range       :Low
+Price(Rs)   : 1000
+Description :Made in Nepal
+--------------------------------------------------
+**************************************************
+**         Car Accessory Reciept       **
+**************************************************
+Fri Jan 10 10:23:25 NPT 2020
+
+Item's Id   : 2
+Item's Name :  Gear
+Category    :Ambience
+Range       :Medium
+Price(Rs)   : 10000
+Description :Made in india
+-----------------------------------------------------------------------------
+**************************************************
+**         Car Accessory Reciept       **
+**************************************************
+Fri Jan 10 11:54:59 NPT 2020
+
+Item's Id   : 3
+Item's Name :  logo
+Category    :Ambience
+Range       :Low
+Price(Rs)   : 1500
+Description :Made in Germany
+-----------------------------------------------------------------------------
+**************************************************
+**         Car Accessory Reciept       **
+**************************************************
+Fri Jan 10 11:59:10 NPT 2020
+
+Item's Id   : 4
+Item's Name :  Tyre
+Category    :Comfort
+Range       :Medium
+Price(Rs)   : 8000
+Description :Made in Italy
+-----------------------------------------------------------------------------
+**************************************************
+**         Car Accessory Reciept       **
+**************************************************
+Fri Jan 10 12:00:40 NPT 2020
+
+Item's Id   : 5
+Item's Name :  Engine
+Category    :Comfort
+Range       :High
+Price(Rs)   : 200000
+Description :Made in USA
+-----------------------------------------------------------------------------
+**************************************************
+**         Car Accessory Reciept       **
+**************************************************
+Fri Jan 10 12:02:05 NPT 2020
+
+Item's Id   : 6
+Item's Name :  Tyre
+Category    :Comfort
+Range       :High
+Price(Rs)   : 30000
+Description :Made in China
+-----------------------------------------------------------------------------
+**************************************************
+**         Car Accessory Reciept       **
+**************************************************
+Fri Jan 10 12:03:22 NPT 2020
+
+Item's Id   : 7
+Item's Name :  Disbrake
+Category    :Comfort
+Range       :Medium
+Price(Rs)   : 25000
+Description :Made in Srilanka
+-----------------------------------------------------------------------------
+
+**************************************************
+**         Car Accessory Reciept       **
+**************************************************
+Fri Jan 10 12:10:48 NPT 2020
+
+Item's Id   : 8
+Item's Name :  SideMirror
+Category    :Comfort
+Range       :Low
+Price(Rs)   : 4000
+Description :Made in Nepal
+-----------------------------------------------------------------------------
+**************************************************
+**         Car Accessory Reciept       **
+**************************************************
+Fri Jan 10 12:16:57 NPT 2020
+
+Item's Id   : 9
+Item's Name :  SeatCover
+Category    :Comfort
+Range       :Low
+Price(Rs)   : 5000
+Description :Made in Spain
+-----------------------------------------------------------------------------
+**************************************************
+**         Car Accessory Reciept       **
+**************************************************
+Fri Jan 10 12:19:08 NPT 2020
+
+Item's Id   : 10
+Item's Name :  EnginePart
+Category    :Ambience
+Range       :Medium
+Price(Rs)   : 100000
+Description :Made in UK
+-----------------------------------------------------------------------------
+**************************************************
+**         Car Accessory Reciept       **
+**************************************************
+1/11/2020
+
+Item's Id : 9
+Item's Name   :  MediaPlayer
+Category    :Comfort
+Range       :Low
+Price(Rs)   : 5000
+Description :Made in Spain
+-----------------------------------------------------------------------------
+**************************************************
+**         Car Accessory Reciept       **
+**************************************************
+Fri Jan 10 12:27:11 NPT 2020
+
+Item's Id   : 11
+Item's Name :  SeatCover
+Category    :Comfort
+Range       :Medium
+Price(Rs)   : 7000
+Description :Made in China
+-----------------------------------------------------------------------------
+**************************************************
+**         Car Accessory Reciept       **
+**************************************************
+Fri Jan 10 12:28:26 NPT 2020
+
+Item's Id   : 12
+Item's Name :  MediaPlayer
+Category    :Media
+Range       :Medium
+Price(Rs)   : 6000
+Description :Made in Ukraine
+-----------------------------------------------------------------------------
+**************************************************
+**         Car Accessory Reciept       **
+**************************************************
+1/11/2020
+
+Item's Id : 9
+Item's Name   :  MediaPlayer
+Category    :Media
+Range       :Low
+Price(Rs)   : 5000
+Description :Made in Spain
+-----------------------------------------------------------------------------
+**************************************************
+**         Car Accessory Reciept       **
+**************************************************
+3/05/2019
+
+Item's Id : 11
+Item's Name   :  SeatCover
+Category    :Comfort
+Range       :Medium
+Price(Rs)   : 6000
+Description :Made in China
+-----------------------------------------------------------------------------
+**************************************************
+**         Car Accessory Reciept       **
+**************************************************
+Sat Jan 11 15:39:30 NPT 2020
+
+Item's Id   : 14
+Item's Name :  Logo
+Category    :Ambience
+Range       :Low
+Price(Rs)   : 60000
+Description :Made in Kenya
+--------------------------------------------------
+**************************************************
+**         Car Accessory Reciept       **
+**************************************************
+1/20/2020
+
+Item's Id : 5
+Item's Name   :  Engine
+Category    :Comfort
+Range       :High
+Price(Rs)   : 200000
+Description :Made in USA
+--------------------------------------------------
+**************************************************
+**         Car Accessory Reciept       **
+**************************************************
+8/10/2019
+
+Item's Id : 13
+Item's Name   :  Seatbelt
+Category    :Comfort
+Range       :Low
+Price(Rs)   : 4000
+Description :Made in Japan
+--------------------------------------------------
+**************************************************
+**         Car Accessory Reciept       **
+**************************************************
+8/10/2019
+
+Item's Id : 13
+Item's Name   :  Seatbelt
+Category    :Comfort
+Range       :Low
+Price(Rs)   : 4000
+Description :Made in Japan
+--------------------------------------------------
+**************************************************
+**         Car Accessory Reciept       **
+**************************************************
+1/20/2019
+
+Item's Id : 8
+Item's Name   :  SideMirror
+Category    :Comfort
+Range       :Low
+Price(Rs)   : 400
+Description :Made in Nepal
+--------------------------------------------------
